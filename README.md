@@ -1,2 +1,4 @@
 # hello-world
-just ordinary repository
+
+hi
+i'm just new comer. 
